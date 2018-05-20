@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FragmentsTest</string>
+    <string name="button">Dank Meme Bro</string>
+
+    <string name="topText">Top Text</string>
+    <string name="bottomText">Bottom Text</string>
+</resources>
